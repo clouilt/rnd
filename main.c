@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define R 32
+#define R 31
 #define defaultseed 1
 
 int r[R];
